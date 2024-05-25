@@ -1,4 +1,4 @@
-// .vuepress/config.js
+// .vuepress/config.python
 module.exports = {
   plugins: [
     '@vuepress/back-to-top', 

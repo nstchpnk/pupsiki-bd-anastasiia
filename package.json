@@ -4,7 +4,7 @@
   "main": "index.js",
   "description": "Databases course work template",
   "repository": "https://github.com/io-23SklyarAnton/pupsiki-bd.git",
-  "author": "Sklyar Anton <80kap.i.toshka@gmail.com>",
+  "author": "Chepeniuk Anastasiia <cepenukn@gmail.com>",
   "license": "ECL 2.0",
   "scripts": {
     "docs:dev": "npx vuepress dev docs",

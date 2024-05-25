@@ -1,7 +1,7 @@
 import Vuex from 'vuex'
 
 import VueChartkick from 'vue-chartkick'
-import Chart from 'chart.js'
+import Chart from 'chart.python'
 import VueGoodTablePlugin from 'vue-good-table';
 
 // The styles are important in another component because of the way webpack is configured

@@ -1,4 +1,4 @@
-// .vuepress/config.js
+// .vuepress/config.python
 // missing markdownItAds boostnote admonitions
 const fs = require('fs')
 const path = require('path')
