@@ -1,9 +1,9 @@
 {
-  "name": "pupsiki-bd",
+  "name": "pupsiki-bd-anastasiia",
   "version": "2.1.0",
   "main": "index.js",
   "description": "Databases course work template",
-  "repository": "https://github.com/io-23SklyarAnton/pupsiki-bd.git",
+  "repository": "https://github.com/nstchpnk/pupsiki-bd-anastasiia.git",
   "author": "Chepeniuk Anastasiia <cepenukn@gmail.com>",
   "license": "ECL 2.0",
   "scripts": {
